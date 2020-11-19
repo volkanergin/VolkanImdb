@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YMS5573_VolkanIMDB_Project.UI", "YMS5573_VolkanIMDB_Project\YMS5573_VolkanIMDB_Project.UI.csproj", "{7464A772-6D07-4F48-A000-BEF63A0B398C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YMS5573_VolkanIMDB_Project.DataAccess", "YMS5573_VolkanIMDB_Project.DataAccess\YMS5573_VolkanIMDB_Project.DataAccess.csproj", "{01425753-18E1-46B7-A3E9-73BB173FCFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7464A772-6D07-4F48-A000-BEF63A0B398C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7464A772-6D07-4F48-A000-BEF63A0B398C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7464A772-6D07-4F48-A000-BEF63A0B398C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7464A772-6D07-4F48-A000-BEF63A0B398C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01425753-18E1-46B7-A3E9-73BB173FCFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01425753-18E1-46B7-A3E9-73BB173FCFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01425753-18E1-46B7-A3E9-73BB173FCFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01425753-18E1-46B7-A3E9-73BB173FCFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A38931-8263-4ECA-9645-9204FC8B3832}
+	EndGlobalSection
+EndGlobal
